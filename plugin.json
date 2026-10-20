@@ -1,0 +1,11 @@
+{
+  "name": "ROM Manager",
+  "author": "JD",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility", "emulation"],
+    "description": "Pick a ROM file and apply an EmuDeck-style console profile (Target, Start In, Launch Options) to a non-Steam game shortcut.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-plugin-template"
+  }
+}
